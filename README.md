@@ -16,7 +16,7 @@ Desenvolvi um sistema na linguagem Java que tem objetivo de gerenciar um shoppin
   
 ### Funcionalidades
 
-- Classes: O sistema possui classes que representam entidades do mundo real, como Endereço, Produto e Loja, com atributos e métodos correspondentes;
+- Classes: O sistema possui classes que representam entidades do mundo real, como Endereço, Produto e Loja, com atributos e métodos;
 - Herança e Polimorfismo: cria subclasses (Cosmético, Vestuário, etc.) que herdam comportamentos e atributos das classes pai;
 - Gestão de Produtos e Lojas: Permite criar, editar e visualizar informações sobre produtos e lojas, como adicionar ou remover produtos, alterar dados da loja e verificar informações básicas;
 - Integração com Shopping: Oferece a capacidade de integrar lojas em um contexto de shopping, possibilitando operações como adição de lojas ao shopping, verificação de quantidade de lojas por tipo, entre outras.
